@@ -6,4 +6,4 @@ DB = dict(database='d:\\tme_db.fdb',
           charset='win1251')
 
 MAX_ORDERS = 500
-MIN_days = 100
+MIN_DAYS = 100
